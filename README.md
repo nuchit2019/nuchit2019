@@ -1,6 +1,5 @@
 ### Nuchit Atjanawat 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on www.flowco.co.th ...
 - 🌱 I’m currently learning ...
