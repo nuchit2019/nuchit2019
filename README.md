@@ -13,3 +13,4 @@ Here are some ideas to get you started:
     - DevSecOps Primer
     - Purpose-built Database
     - Microservices Design Patterns
+ ![alt text](https://github.com/nuchit2019/nuchit2019/blob/main/How%20to%20Become%20a%20Better%20Programmer.jpg?raw=true)
