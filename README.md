@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nuchit Atjanawat</h1>
 <h3 align="center">A passionate Full Stack Developer from Thailand</h3>
 
-- 🔭 I’m currently working on **ams project**
+- 🔭 I’m currently working on ...
+  - **AMS: Automatic Tank Gauge Management Service project**
+  - **SMS: Service Management System project**
 
 - 📝 I regularly write articles on [https://janawat.wordpress.com/](https://janawat.wordpress.com/)
 
